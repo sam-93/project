@@ -1,0 +1,16 @@
+Component
+A component is a reusable piece of software. 
+JavaScript-Component is simply a component developed using a JavaScript.
+https://developer.telerik.com/featured/front-end-application-frameworks-component-architectures/ 
+Generically speaking, in the context of the web, a UI component is a region in a web page that contains an isolated UI feature (i.e. a view) that is distinct from everything around it. For example, an HTML <select> element is considered a native HTML UI component.
+What makes up a component?
+a component is made up of some parts HTML, some parts CSS, and some parts JavaScript. In the past, these parts were divided into separate modules, separating concerns.
+React where all the parts are defined in one module and potentially all written in JavaScript.
+https://derickbailey.com/2015/08/26/building-a-component-based-web-ui-with-modern-javascript-frameworks/ 
+A component is a small, potentially re-usable set of logic, behaviors and interface elements (UI or API). And without components or component-based UI development, our applications become monolithic spaghetti monsters and nightmares.
+React vs angular components
+https://derickbailey.com/2015/08/26/building-a-component-based-web-ui-with-modern-javascript-frameworks/ 
+
+Dom: what is it?
+Virtual Dom
+Dom VS Virtual Dom
