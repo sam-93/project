@@ -9,3 +9,7 @@ npm start
 For landingPage_vue, go into project directory, and do the following:
 npm install
 npm dev run 
+
+For landingPage_angular, go into project directory, and do the following:
+npm install -g @angular/cli
+ng serve --open
